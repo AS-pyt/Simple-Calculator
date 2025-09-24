@@ -1,2 +1,5 @@
 # Simple-Calculator
-Just a simple calculator 
+---
+## Languages used 
+- HTML
+- Python
